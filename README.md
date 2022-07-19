@@ -1,1 +1,1 @@
-![](fall.jpg)
+![](fall-min.jpg)
